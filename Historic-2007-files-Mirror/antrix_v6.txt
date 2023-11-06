@@ -1,0 +1,1 @@
+This includes the pre-compiled binaries and precompiled dll's as well as the complete directory structure.

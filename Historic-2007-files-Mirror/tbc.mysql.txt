@@ -1,0 +1,7 @@
+The Databases:
+
+antrix_ac.sql is the accounts database.
+- You must specify this db in the loginserver.conf config file.
+
+antrix_db.sql is the game database.
+- You must specify this db in the antrix.conf config file.
